@@ -1,10 +1,13 @@
 package main;
 
-import java.util.Scanner;
+
+
 import java.io.PrintWriter;
+import java.util.Scanner;
 
 public class Task272 {
   static boolean opened = false;
+
   public void solve(int testNumber, Scanner in, PrintWriter out) {
     while(in.hasNextLine())
       out.println(parse(in.nextLine()));

@@ -23,6 +23,7 @@ public class Main {
 
 class Task272 {
   static boolean opened = false;
+
   public void solve(int testNumber, Scanner in, PrintWriter out) {
     while(in.hasNextLine())
       out.println(parse(in.nextLine()));
