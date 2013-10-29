@@ -1,0 +1,44 @@
+33 494 -  Kindergarten Counting Game
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+132 Meep Meep!
+I tot I taw a putty tat.
+I did! I did! I did taw a putty tat.
+Shsssssssssh ... I am hunting wabbits. Heh Heh Heh Heh ...
+
+8 2
+7
+10
+9
+1
+1
+148 Everybody sit down in a circle. Ok. Listen to me carefully.
+
+``Woooooo, you scwewy wabbit!''
+
+Now, could someone tell me how many words I just said?
+11 11
+0
+4
+0
+11
+1
+8 src/main
+15 -Xmx64m -Xss64m
+4 Main
+12 main.Task494
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+0 
+8 Volume 4
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+1
