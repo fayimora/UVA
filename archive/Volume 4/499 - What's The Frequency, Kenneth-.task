@@ -1,0 +1,42 @@
+36 499 - What's The Frequency, Kenneth?
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+166 When riding your bicycle backwards down a one-way street, if the
+wheel falls of a canoe, how many ball bearings does it take to fill
+up a water buffalo?
+Hello Howard.
+18 e 6
+al 7
+a 3
+Hlo 2
+1
+1
+168 When riding your bicycle backwards down a one-way street, if the
+wheel falls of a canoe, how many ball bearings does it take to fill
+up a water buffalo?
+ 
+Hello Howard.
+18 e 6
+al 7
+a 3
+Hlo 2
+1
+8 src/main
+15 -Xmx64m -Xss64m
+4 Main
+12 main.Task499
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+0 
+8 Volume 4
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+1
