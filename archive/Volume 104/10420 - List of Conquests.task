@@ -1,0 +1,29 @@
+25 10420 - List of Conquests
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+54 3
+Spain Donna Elvira
+England Jane Doe
+Spain Donna Anna
+17 England 1
+Spain 2
+1
+8 src/main
+15 -Xmx64m -Xss64m
+4 Main
+14 main.Task10420
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+0 
+10 Volume 104
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+1
