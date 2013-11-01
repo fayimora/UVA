@@ -12,9 +12,8 @@ public class Task10420 {
         int n = map.get(country) == null ? 0 : map.get(country);
         map.put(country, n+1);
       }
-      List<String> list = new ArrayList<String>(map.keySet());
-      Collections.sort(list);
-      for(String s: list)
+      Set<String> keySet = new TreeSet<String>(map.keySet());
+      for(String s: keySet)
         out.printf("%s %d\n", s, map.get(s));
     }
 }
