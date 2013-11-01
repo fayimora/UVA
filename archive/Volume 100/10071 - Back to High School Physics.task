@@ -1,0 +1,27 @@
+35 10071 - Back to High School Physics
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+8 0 0
+5 12
+5 0
+120
+1
+8 src/main
+15 -Xmx64m -Xss64m
+4 Main
+14 main.Task10071
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+0 
+10 Volume 100
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+1
