@@ -1,0 +1,30 @@
+27 11044 - Searching for Nessy
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+14 3
+6 6
+7 7
+9 13
+6 4
+4
+12
+1
+8 src/main
+15 -Xmx64m -Xss64m
+4 Main
+14 main.Task11044
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+0 
+10 Volume 110
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+1
