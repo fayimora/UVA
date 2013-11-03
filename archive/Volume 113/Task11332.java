@@ -10,7 +10,7 @@ public class Task11332 {
     while(in.hasNextInt()){
       int n = in.nextInt();
       if(n ==0) break;
-      out.println((n%9 == 0 && n != 0) ? 9 : n%9);
+      out.println((n%9 == 0) ? 9 : n%9);
     }
   }
 }
