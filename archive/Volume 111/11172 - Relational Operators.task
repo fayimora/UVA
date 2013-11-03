@@ -1,0 +1,30 @@
+28 11172 - Relational Operators
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+19 3
+10 20
+20 10
+10 10
+7 < 
+> 
+=
+1
+8 src/main
+15 -Xmx64m -Xss64m
+4 Main
+14 main.Task11172
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+0 
+10 Volume 111
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+1
