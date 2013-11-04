@@ -1,0 +1,50 @@
+31 12015 - Google is Feeling Lucky
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+379 2
+www.youtube.com 1
+www.google.com 2
+www.google.com.hk 3
+www.alibaba.com 10
+www.taobao.com 5
+www.bad.com 10
+www.good.com 7
+www.fudan.edu.cn 8
+www.university.edu.cn 9
+acm.university.edu.cn 10
+www.youtube.com 1
+www.google.com 2
+www.google.com.hk 3
+www.alibaba.com 11
+www.taobao.com 5
+www.bad.com 10
+www.good.com 7
+www.fudan.edu.cn 8
+acm.university.edu.cn 9
+acm.university.edu.cn 10
+83 Case #1:
+www.alibaba.com
+www.bad.com
+acm.university.edu.cn
+Case #2:
+www.alibaba.com
+1
+8 src/main
+15 -Xmx64m -Xss64m
+4 Main
+14 main.Task12015
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+0 
+10 Volume 120
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+1
