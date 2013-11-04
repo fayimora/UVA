@@ -1,0 +1,28 @@
+19 11799 - Horror Dash
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+17 2
+5 9 3 5 2 6
+1 2
+19 Case 1: 9
+Case 2: 2
+1
+8 src/main
+15 -Xmx64m -Xss64m
+4 Main
+14 main.Task11799
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+0 
+10 Volume 117
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+1
