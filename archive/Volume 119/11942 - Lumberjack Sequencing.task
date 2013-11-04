@@ -1,0 +1,31 @@
+29 11942 - Lumberjack Sequencing
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+94 3 
+13 25 39 40 55 62 68 77 88 95 
+88 62 77 20 40 10 99 56 45 36 
+91 78 61 59 54 49 43 33 26 18
+41 Lumberjacks: 
+Ordered 
+Unordered 
+Ordered
+1
+8 src/main
+15 -Xmx64m -Xss64m
+4 Main
+14 main.Task11942
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+0 
+10 Volume 119
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+1
