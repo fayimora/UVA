@@ -1,6 +1,6 @@
 # UVA Solutions
 This repo is an IntelliJ IDEA project that contains my solutions to the [UVA problems](http://uvatoolkit.com/problemssolve.php). The project
-takes advantage of the almighty CHelper plugin. All the solutions here will most likely be in Java.
+takes advantage of the almighty [CHelper plugin](https://code.google.com/p/idea-chelper/wiki/MainPage). All the solutions here will most likely be in Java.
 This is because the CHelper plugin only works with Java.
 
 Copyright (C) 2013 Fayimora Femi-Balogun
