@@ -1,0 +1,62 @@
+20 10487 - Closest Sums
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+59 5
+3
+12
+17
+33
+34
+3
+1
+51
+30
+3
+1
+2
+3
+3
+1
+2
+3
+3
+1
+2
+3
+3
+4
+5
+6
+0
+235 Case 1:
+Closest sum to 1 is 15.
+Closest sum to 51 is 51.
+Closest sum to 30 is 29.
+Case 2:
+Closest sum to 1 is 3.
+Closest sum to 2 is 3.
+Closest sum to 3 is 3.
+Case 3:
+Closest sum to 4 is 4.
+Closest sum to 5 is 5.
+Closest sum to 6 is 5.
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+14 main.Task10487
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+0 
+10 Volume 104
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+1
